@@ -1,0 +1,4 @@
+interface:
+  display_name: "High-Quality Skill Author"
+  short_description: "Author lean, high-signal agent skills"
+  default_prompt: "Use $how-to-build-high-quality-skill to turn this draft or source document into a lean skill with strong triggering, progressive disclosure, and real gotchas."
