@@ -1,0 +1,6 @@
+interface:
+  display_name: "Light Do Workflow"
+  short_description: "Run a lighter structured dev flow for clear, moderate tasks"
+  default_prompt: "Use $light-do for this clear or moderate coding task when a quick Clarify, minimal Plan, Implement, Review, and Complete flow is useful."
+policy:
+  allow_implicit_invocation: false
