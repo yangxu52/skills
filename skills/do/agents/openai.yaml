@@ -1,0 +1,6 @@
+interface:
+  display_name: "Do Workflow"
+  short_description: "Run or resume larger tracked coding tasks"
+  default_prompt: "Use $do to run or resume this larger coding task through tracked phases with task artifacts under .local/tasks."
+policy:
+  allow_implicit_invocation: false

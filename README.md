@@ -1,12 +1,12 @@
 # Personal Skills Library
 
-This directory is my personal library of reusable skill assets. The root holds library-level documents and future shared materials. Actual skill packages live under ` skills/ ` so the library can grow without collapsing everything into one flat folder.
+This directory is my personal library of reusable skill assets. The root holds library-level documents and future shared materials. Actual skill packages live under `skills/` so the library can grow without collapsing everything into one flat folder.
 
 ## Layout
 
-- ` AGENTS.md `: execution rules for this library
-- ` README.md `: library overview and maintenance notes
-- ` skills/ `: actual skill packages
+- `AGENTS.md`: execution rules for this library
+- `README.md`: library overview and maintenance notes
+- `skills/`: actual skill packages
 
 ## Asset Types
 
@@ -20,8 +20,8 @@ The goal is not to collect raw prompts. The goal is to accumulate reusable, high
 
 ## Conventions
 
-- Add each reusable skill as its own folder under ` skills/ `.
-- Keep each skill self-contained and follow the standard skill shape: ` SKILL.md ` plus only the resource folders it actually needs.
+- Add each reusable skill as its own folder under `skills/`.
+- Keep each skill self-contained and follow the standard skill shape: `SKILL.md` plus only the resource folders it actually needs.
 - Keep root-level files focused on the library as a whole, not on one individual skill.
 - When adding a new top-level folder for non-skill assets, document its purpose here.
 
@@ -44,9 +44,10 @@ Avoid adding material that is only:
 
 ## Current Inventory
 
-| Name | Type | Purpose | Status | Source |
-| --- | --- | --- | --- | --- |
-| ` how-to-build-high-quality-skill ` | adapted | Author and review high-quality reusable agent skills | active | Thariq Shihipar, LinkedIn, 2026-03-18 |
+| Name                              | Type    | Purpose                                                           | Status | Source                                    |
+| --------------------------------- | ------- | ----------------------------------------------------------------- | ------ | ----------------------------------------- |
+| `do`                              | adapted | Orchestrate larger coding tasks through tracked phases and review | active | Claude Code `do` skill, rebuilt for Codex |
+| `how-to-build-high-quality-skill` | adapted | Author and review high-quality reusable agent skills              | active | Thariq Shihipar, LinkedIn, 2026-03-18     |
 
 ## Maintenance
 
