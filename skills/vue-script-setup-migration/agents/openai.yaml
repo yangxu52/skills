@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Script Setup Migration"
+  short_description: "旧式 Vue 页面迁到当前现代写法"
+  default_prompt: "Use $vue-script-setup-migration to migrate a legacy Vue page or component from Options API or other non-script-setup patterns into the repository's accepted modern script setup style, with clear page boundaries, state migration, and cleanup of legacy setup or render shells."

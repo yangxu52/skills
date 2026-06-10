@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue CRUD Practices"
+  short_description: "当前仓库 CRUD 模板家族约定"
+  default_prompt: "Use $vue-crud-practices to align a Vue 3 CRUD page with this repository's accepted CRUD page patterns, including list-page responsibilities, dialog boundaries, state handling, async handling, form submission, and operation boundaries."

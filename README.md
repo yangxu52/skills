@@ -49,6 +49,8 @@ Avoid adding material that is only:
 | `do`                              | adapted | Orchestrate larger coding tasks through tracked phases and review | active | Claude Code `do` skill, rebuilt for Codex |
 | `light-do`                        | adapted | Run a lighter structured dev workflow for clear moderate tasks    | active | Rebuilt from Claude Code `do` + `requirements` |
 | `how-to-build-high-quality-skill` | adapted | Author and review high-quality reusable agent skills              | active | Thariq Shihipar, LinkedIn, 2026-03-18     |
+| `vue-crud-practices`              | hand-written | Guide Vue 3 admin CRUD pages toward the accepted list-plus-dialog structure and boundaries | active | Authored from local Vue CRUD practices |
+| `vue-script-setup-migration`      | hand-written | Migrate legacy Vue pages and business components to modern `script setup` structure | active | Authored from local Vue migration practices |
 
 ## Maintenance
 
